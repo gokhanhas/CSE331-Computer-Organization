@@ -1,0 +1,1 @@
+Dosyalar hasar gördüğünden dolayı HW-01 yüklenemedi.

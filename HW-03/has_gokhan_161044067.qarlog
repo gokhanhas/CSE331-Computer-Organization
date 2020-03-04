@@ -1,0 +1,50 @@
+Quartus II Archive log --	C:/Users/Gokhan/Desktop/has_gokhan_161044067.qarlog
+
+Archive:	C:/Users/Gokhan/Desktop/has_gokhan_161044067.qar
+Date:		Fri Dec 13 18:38:00 2019
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/altera/13.1/project3workspace/Proje3.qpf
+C:/altera/13.1/project3workspace/Proje3.qsf
+C:/altera/13.1/project3workspace/bit_1_to_32.v
+C:/altera/13.1/project3workspace/bit_1_to_32_testbench.v
+C:/altera/13.1/project3workspace/bit_7_to_31.v
+C:/altera/13.1/project3workspace/control_unit.v
+C:/altera/13.1/project3workspace/control_unit_testbench.v
+C:/altera/13.1/project3workspace/data.mem
+C:/altera/13.1/project3workspace/data_memory.v
+C:/altera/13.1/project3workspace/db/Proje3.db_info
+C:/altera/13.1/project3workspace/imm_32.v
+C:/altera/13.1/project3workspace/imm_32_testbench.v
+C:/altera/13.1/project3workspace/incremental_db/compiled_partitions/Proje3.db_info
+C:/altera/13.1/project3workspace/inst_module.v
+C:/altera/13.1/project3workspace/inst_module_testbench.v
+C:/altera/13.1/project3workspace/instruction.mem
+C:/altera/13.1/project3workspace/mips_32.v
+C:/altera/13.1/project3workspace/mips_32_testbench.v
+C:/altera/13.1/project3workspace/mux_2_1.v
+C:/altera/13.1/project3workspace/mux_2_1_testbench.v
+C:/altera/13.1/project3workspace/mux_4_1.v
+C:/altera/13.1/project3workspace/mux_4_1_testbench.v
+C:/altera/13.1/project3workspace/my_1bit_ALU.v
+C:/altera/13.1/project3workspace/my_1bit_ALU_testbench.v
+C:/altera/13.1/project3workspace/my_32bit_ALU.v
+C:/altera/13.1/project3workspace/my_32bit_ALU_testbench.v
+C:/altera/13.1/project3workspace/my_mux.v
+C:/altera/13.1/project3workspace/my_mux_testbench.v
+C:/altera/13.1/project3workspace/my_xor.v
+C:/altera/13.1/project3workspace/my_xor_testbench.v
+C:/altera/13.1/project3workspace/not_32.v
+C:/altera/13.1/project3workspace/register.v
+C:/altera/13.1/project3workspace/register_testbench.v
+C:/altera/13.1/project3workspace/registers.mem
+C:/altera/13.1/project3workspace/sign_extend_32.v
+C:/altera/13.1/project3workspace/sign_extend_32_testbench.v
+C:/altera/13.1/project3workspace/zero_extend_32.v
+C:/altera/13.1/project3workspace/zero_extend_32_testbench.v
+c:/altera/13.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 39 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
